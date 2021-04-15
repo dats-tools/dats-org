@@ -1,4 +1,25 @@
 {
     "settings": "设置",
-    "close": "关闭"
+    "close": "关闭",
+    "documents": "文档",
+    "tutorials": "教程",
+    "community": "社区",
+    "home-box1-p1": "使用<strong>Dprotocols</strong>超级聚合协议管理您所有<strong>DeFi</strong>资产",
+    "home-box1-p2": "专属您的私人机器人顾问和自动理财工具",
+    "home-box1-p3": "Dprotocols是投资和管理您DeFi资产组合的最简单和最佳工具",
+    "home-box1-placeholder": "搜索 地址/协议名称/ Token name/ ENS域名",
+    "search_address": "搜索地址",
+    "connect_wallet": "连接钱包",
+    "home-box2-p1": "",
+    "home-box2-l1": "",
+    "home-box2-l2": "",
+    "home-box2-l3": "",
+    "home-box2-l4": "",
+    "home-box2-l5": "",
+    "learn_more": "",
+    "home-box3-p1": "",
+    "home-box3-l1": "",
+    "home-box3-l2": "",
+    "home-box3-l3": "",
+    "home-box3-l4": ""
 }

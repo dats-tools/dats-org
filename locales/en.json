@@ -1,4 +1,13 @@
 {
     "settings": "Settings",
-    "close": "Close"
+    "close": "Close",
+    "documents": "documents",
+    "tutorials": "tutorials",
+    "community": "community",
+    "home-box1-p1": "Manage all <strong>DeFi</strong> assets using <strong>Dprotocols</strong> Super aggregation protocol",
+    "home-box1-p2": "Exclusive private robot consultant and automatic financial instrument",
+    "home-box1-p3": "Dprotocols is the easiest and best tool for investment and managing your DEFI asset portfolio",
+    "home-box1-placeholder": "Search Address / Protocol Name / Token Name / ENS Domain Name",
+    "search_address": "search address",
+    "connect_wallet": "connect wallet"
 }
